@@ -80,25 +80,3 @@
 
 
 
-/* style.css */
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 2rem;
-}
-
-thead {
-  background-color: #f0f0f0;
-}
-
-th, td {
-  border: 1px solid #ccc;
-  padding: 0.75rem;
-  text-align: left;
-}
-
-tr:hover {
-  background-color: #f9f9f9;
-}
-
